@@ -9,7 +9,7 @@ public class Calculator {
 		// ask the user to for operator (+,-,*,/)
 		// calculate the result using if else
 		
-		
+		// this is a change
 		Scanner onur = new Scanner(System.in);
 		
 		System.out.println("Please enter the first number");

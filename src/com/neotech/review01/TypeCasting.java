@@ -6,6 +6,7 @@ public class TypeCasting {
 		
 		// byte < short < int < long < float < double
 		
+		//This is a change
 		int intNumber = 39;
 		
 		// widening / implicit casting / automatically
