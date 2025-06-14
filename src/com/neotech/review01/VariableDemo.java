@@ -5,6 +5,8 @@ public class VariableDemo {
 	// ALWAYS FORMAT YOUR CODE
 	// CTRL + SHİFT + F
 
+	
+	//TEST
 	public static void main(String[] args) {
 		
 		// Declare a variable
